@@ -1,0 +1,12 @@
+<application>
+  <component name="JFormDesignerConfigurable">
+    <node name="designer">
+      <entry key="animationspeed" value="2" />
+    </node>
+    <node name="javacodegenerator">
+      <entry key="sourcecompatibility" value="8" />
+      <entry key="containerblocks" value="false" />
+      <entry key="comments" value="false" />
+    </node>
+  </component>
+</application>
