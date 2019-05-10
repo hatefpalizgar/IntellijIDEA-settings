@@ -8,6 +8,9 @@
     <keyboard-shortcut first-keystroke="shift meta equals" />
   </action>
   <action id="GotoLine" />
+  <action id="Macro.myReformatter">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
     <keyboard-shortcut first-keystroke="ctrl j" />
