@@ -1,4 +1,9 @@
 <application>
+  <component name="MaterialDDLCThemeConfig">
+    <option name="rightTreeIndent" value="6" />
+    <option name="userId" value="32245a4d:16ab02c0f6d:-8000" />
+    <option name="version" value="3.2.4" />
+  </component>
   <component name="MaterialThemeConfig">
     <option name="compactDropdowns" value="true" />
     <option name="highlightColorEnabled" value="true" />
