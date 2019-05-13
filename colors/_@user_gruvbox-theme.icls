@@ -3,7 +3,7 @@
     <property name="created">2019-05-13T13:59:39</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-05-13T14:04:30</property>
+    <property name="modified">2019-05-13T14:13:59</property>
     <property name="originalScheme">gruvbox-theme</property>
   </metaInfo>
   <colors>
@@ -11,22 +11,22 @@
     <option name="ANNOTATIONS_COLOR" value="928374" />
     <option name="CARET_ROW_COLOR" value="3c3836" />
     <option name="CONSOLE_BACKGROUND_KEY" value="282828" />
-    <option name="FILESTATUS_ADDED" value="fc913a" />
+    <option name="FILESTATUS_ADDED" value="e85362" />
     <option name="FILESTATUS_COPIED" value="659d9a" />
     <option name="FILESTATUS_DELETED" value="f77669" />
-    <option name="FILESTATUS_HIJACKED" value="f85931" />
+    <option name="FILESTATUS_HIJACKED" value="9b78db" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="f77669" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="546e7a" />
     <option name="FILESTATUS_MERGED" value="65738e" />
-    <option name="FILESTATUS_MODIFIED" value="fc913a" />
+    <option name="FILESTATUS_MODIFIED" value="e85362" />
     <option name="FILESTATUS_NOT_CHANGED" value="626669" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="fc913a" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="fc913a" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="e85362" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="e85362" />
     <option name="FILESTATUS_OBSOLETE" value="7c7c00" />
     <option name="FILESTATUS_SUPPRESSED" value="616161" />
     <option name="FILESTATUS_SWITCHED" value="8978f" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_modifiedOutside" value="fc913a" />
+    <option name="FILESTATUS_modifiedOutside" value="e85362" />
     <option name="GUTTER_BACKGROUND" value="282828" />
     <option name="INDENT_GUIDE" value="665c54" />
     <option name="LINE_NUMBERS_COLOR" value="928374" />
