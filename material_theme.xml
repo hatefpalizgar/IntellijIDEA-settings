@@ -15,14 +15,14 @@
     <option name="isMaterialTheme" value="false" />
     <option name="isPsiIcons" value="false" />
     <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
-    <option name="tabOpacity" value="0" />
     <option name="treeFontSize" value="14" />
     <option name="rightTreeIndent" value="6" />
     <option name="accentColor" value="009688" />
     <option name="highlightColor" value="dc5300" />
-    <option name="selectedTheme" value="CUSTOM" />
+    <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-68b4c804:169835b71d0:-8000" />
     <option name="version" value="3.9.4" />
     <option name="tabHighlightPosition" value="Bottom" />
