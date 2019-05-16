@@ -1,0 +1,26 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta add" />
+  </action>
+  <action id="ExpandAllToLevel1">
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="1" />
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad1" />
+    <keyboard-shortcut first-keystroke="shift meta equals" />
+  </action>
+  <action id="GotoLine" />
+  <action id="Macro.myReformatter">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+    <mouse-shortcut keystroke="control button2" />
+    <mouse-shortcut keystroke="meta button3" />
+  </action>
+  <action id="ReformatCode" />
+  <action id="RestoreDefaultLayout">
+    <keyboard-shortcut first-keystroke="ctrl back_space" />
+  </action>
+  <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.ReformatCommitMessage" />
+</keymap>
