@@ -1,4 +1,5 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="EditorDeleteToWordEnd" />
   <action id="FileChooser.NewFolder" />
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
@@ -7,7 +8,7 @@
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="Macro.myReformatter">
-    <keyboard-shortcut first-keystroke="meta l" />
+    <keyboard-shortcut first-keystroke="alt delete" />
   </action>
   <action id="Vcs.Log.FocusTextFilter" />
 </keymap>
