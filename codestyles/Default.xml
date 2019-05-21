@@ -4,8 +4,13 @@
     <option name="BLANK_LINES_AROUND_INITIALIZER" value="0" />
   </JavaCodeStyleSettings>
   <codeStyleSettings language="JAVA">
+    <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="0" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
+    <option name="BRACE_STYLE" value="4" />
+    <option name="CLASS_BRACE_STYLE" value="4" />
+    <option name="METHOD_BRACE_STYLE" value="4" />
+    <option name="LAMBDA_BRACE_STYLE" value="4" />
     <option name="CATCH_ON_NEW_LINE" value="true" />
     <option name="FINALLY_ON_NEW_LINE" value="true" />
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
@@ -39,6 +44,7 @@
     <option name="WRAP_ON_TYPING" value="1" />
     <option name="SOFT_MARGINS" value="120" />
     <indentOptions>
+      <option name="USE_RELATIVE_INDENTS" value="true" />
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
     <arrangement>
