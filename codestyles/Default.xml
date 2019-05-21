@@ -4,8 +4,6 @@
     <option name="BLANK_LINES_AROUND_INITIALIZER" value="0" />
   </JavaCodeStyleSettings>
   <codeStyleSettings language="JAVA">
-    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
-    <option name="LINE_COMMENT_ADD_SPACE" value="true" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="0" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
     <option name="CATCH_ON_NEW_LINE" value="true" />
