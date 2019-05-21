@@ -17,7 +17,7 @@
   <action id="GotoClass" />
   <action id="JumpToLastWindow" />
   <action id="Macro.myReformatter">
-    <keyboard-shortcut first-keystroke="alt delete" />
+    <keyboard-shortcut first-keystroke="alt l" />
   </action>
   <action id="Move" />
   <action id="NextDiff" />
