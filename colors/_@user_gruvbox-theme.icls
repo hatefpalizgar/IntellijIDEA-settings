@@ -4,7 +4,7 @@
     <property name="created">2019-05-21T01:35:13</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-05-21T08:51:27</property>
+    <property name="modified">2019-05-21T12:26:57</property>
     <property name="originalScheme">gruvbox-theme</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -70,6 +70,33 @@
     <option name="BOOKMARKS_ATTRIBUTES">
       <value>
         <option name="ERROR_STRIPE_COLOR" value="b8bb26" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="282828" />
+        <option name="BACKGROUND" value="bfa915" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="282828" />
+        <option name="BACKGROUND" value="bfa915" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_HOVERED">
+      <value>
+        <option name="FOREGROUND" value="bbbbbb" />
+        <option name="BACKGROUND" value="3a3c3e" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_INACTIVE">
+      <value>
+        <option name="FOREGROUND" value="bbbbbb" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
