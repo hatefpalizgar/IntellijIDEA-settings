@@ -4,8 +4,9 @@
     <property name="created">2019-05-21T01:35:13</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-05-21T12:26:57</property>
+    <property name="modified">2019-05-21T14:02:12</property>
     <property name="originalScheme">gruvbox-theme</property>
+    <property name="rainbow JAVA">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="18" />
@@ -569,6 +570,9 @@
         <option name="FOREGROUND" value="83a598" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HTML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="83a598" />
@@ -639,9 +643,7 @@
       </value>
     </option>
     <option name="KOTLIN_LABEL">
-      <value>
-        <option name="FOREGROUND" value="83a598" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -671,7 +673,8 @@
     <option name="List/map to object conversion" baseAttributes="JAVA_NUMBER" />
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ff8647" />
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="METHOD_CALL_ATTRIBUTES">

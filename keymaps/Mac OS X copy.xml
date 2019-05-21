@@ -1,10 +1,14 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
   <action id="Debug">
-    <keyboard-shortcut first-keystroke="f10" />
+    <keyboard-shortcut first-keystroke="f9" />
   </action>
   <action id="DebugClass" />
   <action id="EditorDeleteToWordEnd" />
   <action id="FileChooser.NewFolder" />
+  <action id="ForceStepInto">
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
+  <action id="ForceStepOver" />
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
     <keyboard-shortcut first-keystroke="meta n" />
@@ -15,13 +19,18 @@
   <action id="Macro.myReformatter">
     <keyboard-shortcut first-keystroke="alt delete" />
   </action>
+  <action id="NextDiff" />
   <action id="RestoreDefaultLayout">
     <keyboard-shortcut first-keystroke="f12" />
   </action>
   <action id="Resume" />
   <action id="Run">
-    <keyboard-shortcut first-keystroke="f9" />
+    <keyboard-shortcut first-keystroke="f10" />
   </action>
   <action id="RunClass" />
+  <action id="StepInto" />
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
   <action id="Vcs.Log.FocusTextFilter" />
 </keymap>
