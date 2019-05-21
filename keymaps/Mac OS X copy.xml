@@ -6,7 +6,7 @@
   <action id="EditorDeleteToWordEnd" />
   <action id="FileChooser.NewFolder" />
   <action id="ForceStepInto">
-    <keyboard-shortcut first-keystroke="f8" />
+    <keyboard-shortcut first-keystroke="f7" />
   </action>
   <action id="ForceStepOver" />
   <action id="Generate">
@@ -19,6 +19,7 @@
   <action id="Macro.myReformatter">
     <keyboard-shortcut first-keystroke="alt delete" />
   </action>
+  <action id="Move" />
   <action id="NextDiff" />
   <action id="RestoreDefaultLayout">
     <keyboard-shortcut first-keystroke="f12" />
@@ -30,7 +31,7 @@
   <action id="RunClass" />
   <action id="StepInto" />
   <action id="StepOver">
-    <keyboard-shortcut first-keystroke="f7" />
+    <keyboard-shortcut first-keystroke="f6" />
   </action>
   <action id="Vcs.Log.FocusTextFilter" />
 </keymap>
