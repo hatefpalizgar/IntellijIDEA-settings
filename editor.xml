@@ -4,7 +4,7 @@
     <option name="FONT_FAMILY" value="Coding Operator Mono" />
     <option name="LINE_SPACING" value="1.2" />
     <option name="USE_LIGATURES" value="true" />
-    <option name="SECONDARY_FONT_FAMILY" value="customDank" />
+    <option name="SECONDARY_FONT_FAMILY" value="ligaturized Consolas" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">

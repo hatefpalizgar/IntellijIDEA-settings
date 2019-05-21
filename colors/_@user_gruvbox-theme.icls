@@ -4,13 +4,13 @@
     <property name="created">2019-05-21T01:35:13</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-05-21T16:44:28</property>
+    <property name="modified">2019-05-21T17:15:47</property>
     <property name="originalScheme">gruvbox-theme</property>
     <property name="rainbow JAVA">true</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
+  <option name="LINE_SPACING" value="1.05" />
   <option name="EDITOR_FONT_SIZE" value="17" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code Light" />
+  <option name="EDITOR_FONT_NAME" value="ligaturized Consolas" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="18" />
