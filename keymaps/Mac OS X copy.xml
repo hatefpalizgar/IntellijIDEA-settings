@@ -11,8 +11,12 @@
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
+  <action id="JumpToLastWindow" />
   <action id="Macro.myReformatter">
     <keyboard-shortcut first-keystroke="alt delete" />
+  </action>
+  <action id="RestoreDefaultLayout">
+    <keyboard-shortcut first-keystroke="f12" />
   </action>
   <action id="Resume" />
   <action id="Run" />
