@@ -1,5 +1,6 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
-  <action id="Debug">
+  <action id="Debug" />
+  <action id="DebugClass">
     <keyboard-shortcut first-keystroke="f10" />
   </action>
   <action id="EditorDeleteToWordEnd" />
@@ -14,7 +15,8 @@
     <keyboard-shortcut first-keystroke="alt delete" />
   </action>
   <action id="Resume" />
-  <action id="Run">
+  <action id="Run" />
+  <action id="RunClass">
     <keyboard-shortcut first-keystroke="f9" />
   </action>
   <action id="Vcs.Log.FocusTextFilter" />
