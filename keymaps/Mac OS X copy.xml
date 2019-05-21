@@ -1,4 +1,7 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
   <action id="EditorDeleteToWordEnd" />
   <action id="FileChooser.NewFolder" />
   <action id="Generate">
@@ -9,6 +12,10 @@
   <action id="GotoClass" />
   <action id="Macro.myReformatter">
     <keyboard-shortcut first-keystroke="alt delete" />
+  </action>
+  <action id="Resume" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="f9" />
   </action>
   <action id="Vcs.Log.FocusTextFilter" />
 </keymap>

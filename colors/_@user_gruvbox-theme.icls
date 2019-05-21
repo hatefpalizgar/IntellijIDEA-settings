@@ -4,7 +4,7 @@
     <property name="created">2019-05-21T01:35:13</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-05-21T01:42:30</property>
+    <property name="modified">2019-05-21T08:51:27</property>
     <property name="originalScheme">gruvbox-theme</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -271,7 +271,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="928374" />
+        <option name="FOREGROUND" value="bf5075" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -394,7 +394,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="928374" />
+        <option name="FOREGROUND" value="bf5075" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
