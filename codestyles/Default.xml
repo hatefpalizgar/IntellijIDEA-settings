@@ -3,6 +3,9 @@
   <JavaCodeStyleSettings>
     <option name="BLANK_LINES_AROUND_INITIALIZER" value="0" />
   </JavaCodeStyleSettings>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <codeStyleSettings language="JAVA">
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="0" />
