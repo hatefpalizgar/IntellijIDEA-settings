@@ -4,7 +4,7 @@
     <property name="created">2019-05-22T12:49:05</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-05-22T13:56:03</property>
+    <property name="modified">2019-05-22T16:45:44</property>
     <property name="originalScheme">silkworm</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -27,6 +27,7 @@
     <option name="GUTTER_BACKGROUND" value="d9d1c9" />
     <option name="INDENT_GUIDE" value="d9d1c9" />
     <option name="LINE_NUMBERS_COLOR" value="656565" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="" />
     <option name="METHOD_SEPARATORS_COLOR" value="d9d1c9" />
     <option name="MODIFIED_LINES_COLOR" value="bccff9" />
     <option name="NOTIFICATION_BACKGROUND" value="ece3db" />
@@ -34,8 +35,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="d9d1c9" />
     <option name="SELECTED_INDENT_GUIDE" value="656565" />
     <option name="SELECTED_TEARLINE_COLOR" value="" />
-    <option name="SELECTION_BACKGROUND" value="d9d1c9" />
-    <option name="SELECTION_FOREGROUND" value="656565" />
+    <option name="SELECTION_BACKGROUND" value="aba39b" />
     <option name="TEARLINE_COLOR" value="656565" />
     <option name="WHITESPACES" value="656565" />
   </colors>
