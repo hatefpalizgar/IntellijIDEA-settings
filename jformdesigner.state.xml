@@ -1,10 +1,13 @@
 <application>
   <component name="JFormDesigner">
-    <entry key="lookandfeel.idea" value="com.chrisrm.idea.lafs.MTDarkLaf" />
-    <entry key="updates.lastcheckedversion" value="6.0.6.2.195" />
-    <entry key="updates.lastchecked" value="1557336829860" />
-    <entry key="updates.version.6.0.6.4.204" value="type=free;message=&lt;html&gt;An update for JFormDesigner IntelliJ IDEA plug-in is available: &lt;b&gt;6.0.6.4&lt;/b&gt; (Build&amp;nbsp\;204). &lt;a href=&quot;https://www.formdev.com/jformdesigner/changelog/6/?piwik_campaign=check-for-updates#6_0_6_4&quot;&gt;Change&amp;nbsp\;Log&lt;/a&gt;&amp;nbsp\;&amp;nbsp\;&lt;a href=&quot;https://www.formdev.com/jformdesigner/download/?piwik_campaign=check-for-updates&quot;&gt;Download&lt;/a&gt;&lt;/html&gt;" />
-    <entry key="updates.version.7.0.0.0.188" value="type=free;message=&lt;html&gt;A (free) new version of JFormDesigner  is available: &lt;b&gt;7 Release Candidate 3&lt;/b&gt; (Build&amp;nbsp\;188). &lt;a href=&quot;https://www.formdev.com/jformdesigner/preview/?piwik_campaign=check-for-updates&quot;&gt;What's&amp;nbsp\;New&lt;/a&gt;&amp;nbsp\;&amp;nbsp\;&lt;a href=&quot;https://www.formdev.com/jformdesigner/preview/?piwik_campaign=check-for-updates#download&quot;&gt;Download&lt;/a&gt;&lt;/html&gt;" />
+    <entry key="lookandfeel.idea" value="com.intellij.ide.ui.laf.darcula.DarculaLaf" />
+    <entry key="updates.lastcheckedversion" value="7.0.0.0.194" />
+    <entry key="updates.lastchecked" value="1559419082981" />
     <entry key="updates.infoshown" value="true" />
+    <node name="designer">
+      <node name="forms">
+        <entry key="selection-1738169662" value="txtInput" />
+      </node>
+    </node>
   </component>
 </application>
