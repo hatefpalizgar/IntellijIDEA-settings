@@ -1,11 +1,16 @@
 <scheme name="_@user_Material Darker" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-03-16T01:38:00</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.2.5.0.0</property>
-    <property name="modified">2019-06-03T15:42:05</property>
+    <property name="modified">2019-06-05T08:39:07</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.1" />
+  <option name="EDITOR_FONT_SIZE" value="17" />
+  <option name="EDITOR_FONT_NAME" value="Coding DejaVu Sans Code" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="b0bec5" />
