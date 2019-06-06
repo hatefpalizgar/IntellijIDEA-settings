@@ -3,7 +3,7 @@
     <property name="created">2019-03-31T23:01:48</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.2.5.0.0</property>
-    <property name="modified">2019-06-06T06:15:23</property>
+    <property name="modified">2019-06-06T10:50:50</property>
     <property name="originalScheme">Default</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -28,6 +28,7 @@
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_addedOutside" value="" />
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
+    <option name="SOFT_WRAP_SIGN_COLOR" value="" />
   </colors>
   <attributes>
     <option name="BREADCRUMBS_HOVERED">
@@ -38,6 +39,12 @@
     </option>
     <option name="HTML_CODE">
       <value />
+    </option>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="d2d2eb" />
+        <option name="ERROR_STRIPE_COLOR" value="baa8ff" />
+      </value>
     </option>
     <option name="KOTLIN_LABEL">
       <value />
