@@ -14,5 +14,12 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="mysql-connector-java-8.0.15">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Downloads/mysql-connector-java-8.0.15.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
 </application>
