@@ -3,12 +3,11 @@
     <property name="created">2019-03-31T23:01:48</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.2.5.0.0</property>
-    <property name="modified">2019-06-06T10:50:50</property>
+    <property name="modified">2019-06-07T13:00:53</property>
     <property name="originalScheme">Default</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <colors>
-    <option name="CONSOLE_BACKGROUND_KEY" value="eeeeee" />
     <option name="FILESTATUS_ADDED" value="" />
     <option name="FILESTATUS_COPIED" value="" />
     <option name="FILESTATUS_DELETED" value="808080" />
@@ -28,63 +27,5 @@
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_addedOutside" value="" />
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
-    <option name="SOFT_WRAP_SIGN_COLOR" value="" />
   </colors>
-  <attributes>
-    <option name="BREADCRUMBS_HOVERED">
-      <value>
-        <option name="FOREGROUND" value="e9e9e9" />
-        <option name="BACKGROUND" value="d25090" />
-      </value>
-    </option>
-    <option name="HTML_CODE">
-      <value />
-    </option>
-    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="d2d2eb" />
-        <option name="ERROR_STRIPE_COLOR" value="baa8ff" />
-      </value>
-    </option>
-    <option name="KOTLIN_LABEL">
-      <value />
-    </option>
-    <option name="MATCHED_BRACE_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="99ccbb" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="RAINBOW_COLOR0">
-      <value>
-        <option name="FOREGROUND" value="d25090" />
-      </value>
-    </option>
-    <option name="RAINBOW_COLOR1">
-      <value>
-        <option name="FOREGROUND" value="1f8bd8" />
-      </value>
-    </option>
-    <option name="RAINBOW_COLOR2">
-      <value>
-        <option name="FOREGROUND" value="de9e5e" />
-      </value>
-    </option>
-    <option name="RAINBOW_COLOR3">
-      <value>
-        <option name="FOREGROUND" value="9e1d" />
-      </value>
-    </option>
-    <option name="RAINBOW_COLOR4">
-      <value>
-        <option name="FOREGROUND" value="df605f" />
-      </value>
-    </option>
-    <option name="TEXT">
-      <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="e9e9e9" />
-      </value>
-    </option>
-  </attributes>
 </scheme>
