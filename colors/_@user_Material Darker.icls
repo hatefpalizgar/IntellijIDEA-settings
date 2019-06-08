@@ -3,7 +3,7 @@
     <property name="created">2019-03-16T01:38:00</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.2.5.0.0</property>
-    <property name="modified">2019-06-08T17:18:09</property>
+    <property name="modified">2019-06-08T19:31:23</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <colors>
@@ -1260,8 +1260,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="212c32" />
-        <option name="BACKGROUND" value="99881a" />
+        <option name="EFFECT_COLOR" value="39c0ee" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -3698,8 +3697,8 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="212c32" />
-        <option name="BACKGROUND" value="99881a" />
+        <option name="FOREGROUND" value="f7f7f7" />
+        <option name="BACKGROUND" value="1b596e" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
@@ -3779,8 +3778,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="212c32" />
-        <option name="BACKGROUND" value="99881a" />
+        <option name="EFFECT_COLOR" value="39c0ee" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
